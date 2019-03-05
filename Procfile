@@ -1,0 +1,1 @@
+web: gunicorn chevin-ken:app --log-file=-
